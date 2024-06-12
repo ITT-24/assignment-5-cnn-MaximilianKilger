@@ -1,1 +1,5 @@
 01-hyperparameters/gesture_dataset_sample
+02-dataset/image_label.py
+02-dataset/gesture_detection.ipynb
+02-dataset/gesture_recognition.keras
+03-media_control/gesture_dataset_sample
