@@ -1,0 +1,4 @@
+Start Track -> Rock
+Pause Track -> Peace / Stop
+Volume Up -> Like
+Volume Down -> Dislike

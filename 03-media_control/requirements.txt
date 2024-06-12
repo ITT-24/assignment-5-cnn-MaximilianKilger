@@ -1,0 +1,6 @@
+pynput
+numpy
+keras
+tqdm
+sklearn
+opencv-contrib-python
