@@ -149,6 +149,7 @@ while True:
 
             prediction = model.predict(np.array([roi]), verbose=0)
             predicted_gesture = GESTURES[np.argmax(prediction)]
+            print(predicted_gesture)
 
             if predicted_gesture in mapping.keys():
                 action = mapping[predicted_gesture]
